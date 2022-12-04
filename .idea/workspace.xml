@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -35,6 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/Documents/webdevelopment/webdevelopment/labo 8b/opdracht 1&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -43,6 +44,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Documents\webdevelopment\webdevelopment\labo 8b\opdracht 1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Documents\webdevelopment\webdevelopment\labo 8b\opdracht 2" />
+      <recent name="C:\Users\Gebruiker\Documents\webdevelopment\webdevelopment\labo 8b\opdracht 1" />
+      <recent name="C:\Users\Gebruiker\Documents\webdevelopment\webdevelopment\labo 7\nature_blog\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +76,11 @@
       <workItem from="1667145695804" duration="1209000" />
       <workItem from="1668334273932" duration="1836000" />
       <workItem from="1669107928761" duration="1607000" />
+      <workItem from="1669190483017" duration="5107000" />
+      <workItem from="1669795500194" duration="5940000" />
+      <workItem from="1669822032993" duration="675000" />
+      <workItem from="1669890442269" duration="2167000" />
+      <workItem from="1670146238846" duration="1694000" />
     </task>
     <servers />
   </component>
